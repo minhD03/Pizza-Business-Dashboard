@@ -4,9 +4,9 @@ This Pizza Dashboard uses Power BI to track the pizza business. This will help d
 ## 2. Preview Screenshots:
 Below are my Dashboard Screenshots. Further report can be viewed [Here](https://github.com/minhD03/Pizza-Business-Dashboard/blob/efc0e7baf1026a1612c17c195deba439cf5ebecc/Pizza%20Business%20-%20Nhat%20Minh%20Dang.pdf)
 
-![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/efc0e7baf1026a1612c17c195deba439cf5ebecc/Screenshots/Dashboard%201.png)
-![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/efc0e7baf1026a1612c17c195deba439cf5ebecc/Screenshots/Dashboard%202.png)
-![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/efc0e7baf1026a1612c17c195deba439cf5ebecc/Screenshots/Dashboard%203.png)
+![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/bec5b1eab58ff0621ea5ca19d68289535c116dbd/Images/Dashboard%201.png)
+![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/bec5b1eab58ff0621ea5ca19d68289535c116dbd/Images/Dashboard%202.png)
+![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/bec5b1eab58ff0621ea5ca19d68289535c116dbd/Images/Dashboard%203.png)
 
 ## 3. About the data:
 The dataset contains 1 Excel File with these columns:
