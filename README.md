@@ -2,6 +2,7 @@
 ## 1. Introdcution: 
 This Pizza Dashboard uses Power BI to track the pizza business. This will help deciding to utilize any pizzas on the menu or ingredients for the most profit and efficiency.
 ## 2. Preview Screenshots:
+[Live Dashboard Link](https://app.powerbi.com/groups/me/reports/beffc558-a427-4387-83b3-fc61d392f8de?ctid=6a68e2d1-d88d-412b-b982-d4aed5f51716&pbi_source=linkShare)
 Below are my Dashboard Screenshots. Further report can be viewed [Here](https://github.com/minhD03/Pizza-Business-Dashboard/blob/efc0e7baf1026a1612c17c195deba439cf5ebecc/Pizza%20Business%20-%20Nhat%20Minh%20Dang.pdf)
 
 ![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/bec5b1eab58ff0621ea5ca19d68289535c116dbd/Images/Dashboard%201.png)
